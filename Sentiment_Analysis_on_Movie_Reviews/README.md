@@ -6,7 +6,12 @@ This project aims to classify movie reviews as Positive or Negative using Natura
 
 ## Dataset
 
-IMDB Movie Reviews Dataset
+This project uses the IMDB Dataset of 50K Movie Reviews from Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Download the dataset and place IMDB Dataset.csv in the project root directory before running the notebook.
 
 ## Algorithms Used
 
